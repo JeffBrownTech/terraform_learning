@@ -7,5 +7,5 @@ Create a Terraform configuration file to provision:
 - Subnet
 - Network Interface
 - Virtual Machine
--- Windows Server 2016 Datacenter
--- Size: Standard_B1s
+  - Windows Server 2016 Datacenter
+  - Size: Standard_B1s
